@@ -24,12 +24,9 @@ By default, the appearance of the invoice when printed is the same as when viewe
     border: 0px;
   }
 }
-# RTL support
-
-Replace <div class="invoice-box"> with <div class="invoice-box rtl">
 
 
 # Contributing
-We love contributions! Contributing is easy
+I love contributions! Contributing is easy
 
 
